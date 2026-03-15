@@ -13,12 +13,12 @@ COMO ADICIONAR CERTIFICADOS
 Abra certificados.json e adicione novos registros:
 
 {
-"codigo":"NDT-E-C-002-2026",
-"nome":"João Silva",
+"codigo":"NDT-E-C-001-2026",
+"nome":"Kayuan Cunha Silva",
 "curso":"AutoCAD – Desenho Técnico Assistido por Computador",
 "carga":"60h",
-"data":"21/03/2026",
-"responsavel":"Talys Heitor Soares Silva"
+"data":"02/04/2026",
+"responsavel":"Talys Heitor Soares Silva - Técnico em Desenho"
 }
 
 PUBLICAR GRATUITAMENTE
